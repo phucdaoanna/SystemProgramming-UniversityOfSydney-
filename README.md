@@ -1,4 +1,4 @@
-# COMP2017-UniversityOfSydney-
+# SystemProgramming-UniversityOfSydney-COMP2017
 
 This repository contains code for:
 * Tutorial excersices
